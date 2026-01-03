@@ -322,15 +322,4 @@ DeviceProcessEvents
 
 This repository is for educational and portfolio purposes. Content may be reused with attribution.  
 **License:** MIT (optional)
-
-```
-
----
-
-### ✅ Next Steps I can help with
-- Create the repo **files & folders** from this template (I can generate them for you).  
-- Replace placeholders with your **actual projects, screenshots**, and **KQL/PowerShell**.  
-- Add a **GitHub Pages** site for a clean portfolio view.
-
-Want me to scaffold this as downloadable files now? If yes, I’ll generate the full folder structure with starter `.md`, `.kql`, and `.ps1` files so you can push to GitHub right away.
 ```
